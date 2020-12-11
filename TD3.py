@@ -76,7 +76,6 @@ class TD3(object):
 		net_width=128,
 		a_lr=1e-4,
 		c_lr=1e-4,
-		l2_reg = 1e-3,
 		Q_batchsize = 256
 	):
 
@@ -92,7 +91,6 @@ class TD3(object):
 		self.action_dim = action_dim
 		self.max_action = max_action
 		self.gamma = gamma
-		self.l2_reg = l2_reg
 		self.policy_noise = 0.2*max_action
 		self.noise_clip = 0.5*max_action
 		self.tau = 0.005
