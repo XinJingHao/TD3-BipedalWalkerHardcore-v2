@@ -1,4 +1,5 @@
 This is about using TD3 to solve BipedalWalkerHardcore-v2.
+Pytorch version.
 Author: Jinghao Xin
 SJTU,China
 
