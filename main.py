@@ -42,7 +42,6 @@ def main(seed):
         "net_width": 200,
         "a_lr": 1e-4,
         "c_lr": 1e-4,
-        "l2_reg": 1e-3,
         "Q_batchsize":256,
     }
     model = TD3(**kwargs)
