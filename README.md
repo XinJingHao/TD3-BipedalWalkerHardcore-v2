@@ -6,8 +6,9 @@ Author: Jinghao Xin
 
 SJTU,China
 
+-----------------------------------------
 
-Dependencies: 
+###Dependencies####
 
 python=3.7.9 
 
@@ -21,6 +22,8 @@ matplotlib=3.3.2
 
 box2d-py=2.3.8
 
+-----------------------------------------
+###How to use my code####
 
 Load trained model and render : just run 'python main.py' 
 
