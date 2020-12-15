@@ -6,6 +6,8 @@ Author: Jinghao Xin
 
 SJTU,China
 
+Vedio of training can be see in https://www.bilibili.com/video/BV1oa411F7e7?t=4
+
 -----------------------------------------
 
 ###Dependencies####
