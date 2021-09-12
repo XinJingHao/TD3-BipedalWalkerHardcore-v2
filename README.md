@@ -6,7 +6,7 @@ Author: Jinghao Xin
 
 SJTU,China
 
-Simulation Result:
+Simulation Result:  
 ![avatar](https://github.com/XinJingHao/TD3/blob/main/final%20result.gif)
 
 Vedio of training can be see in https://www.bilibili.com/video/BV1oa411F7e7?t=4
