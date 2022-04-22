@@ -10,6 +10,7 @@ Simulation Result:
 ![avatar](https://github.com/XinJingHao/TD3/blob/main/final%20result.gif)
 
 Vedio of all training process can be found in https://www.bilibili.com/video/BV1oa411F7e7?t=4
+All the experiments are trained with same hyperparameters. **Other RL algorithms by Pytorch can be found [here](https://github.com/XinJingHao/RL-Algorithms-by-Pytorch).**
 
 -----------------------------------------
 
