@@ -1,4 +1,4 @@
-This is about using TD3 to solve BipedalWalkerHardcore-v2. 
+# Utilizing TD3 to solve BipedalWalkerHardcore-v2. 
 
 Pytorch version. 
 
@@ -15,22 +15,17 @@ Vedio of all training process can be found [here](https://www.bilibili.com/video
 
 -----------------------------------------
 
-###Dependencies####
-
+## Dependencies
+```bash
 python=3.7.9 
-
 pytorch=1.7.0 
-
 numpy=1.18.5 
-
 gym=0.17.3 
-
 matplotlib=3.3.2 
-
 box2d-py=2.3.8
-
+```
 -----------------------------------------
-###How to use my code####
+## How to use my code
 
 Load trained model and render : just run 'python main.py' 
 
