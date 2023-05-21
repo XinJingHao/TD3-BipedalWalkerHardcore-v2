@@ -1,17 +1,16 @@
 # Utilizing TD3 to solve BipedalWalkerHardcore-v2. 
 
-Pytorch version. 
-
-Author: Jinghao Xin 
-
-SJTU,China
-
-Simulation Result:  
-![avatar](https://github.com/XinJingHao/TD3/blob/main/final%20result.gif)
 
 Some discussion can be found [here](https://zhuanlan.zhihu.com/p/409553262)  
 Vedio of all training process can be found [here](https://www.bilibili.com/video/BV1oa411F7e7?t=4)  
 **Other RL algorithms by Pytorch can be found [here](https://github.com/XinJingHao/RL-Algorithms-by-Pytorch).**
+
+Pytorch version. 
+
+Author: Jinghao Xin, SJTU,China
+
+Simulation Result:  
+![avatar](https://github.com/XinJingHao/TD3/blob/main/final%20result.gif)
 
 -----------------------------------------
 
